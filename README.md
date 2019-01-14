@@ -1,2 +1,2 @@
 # wissenschaftliche-Arbeiten
-Wissenschaftliche Arbeuten
+Wissenschaftliche Arbeiten
